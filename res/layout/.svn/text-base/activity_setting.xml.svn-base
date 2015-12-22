@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:northlight="http://schemas.android.com/apk/res/com.nl.mobilesafe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="55dip"
+        android:background="#8866ff00"
+        android:gravity="center"
+        android:text="设置中心"
+        android:textColor="#000000"
+        android:textSize="22sp" />
+	<com.nl.mobilesafe.ui.SettingItemView
+	    northlight:title_name = "设置是否自动更新"
+	    northlight:desc_on = "自动更新已经开启"
+	    northlight:desc_off = "自动更新已经关闭"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/siv_update"
+	    
+	    >
+	</com.nl.mobilesafe.ui.SettingItemView>
+	<com.nl.mobilesafe.ui.SettingItemView
+	    northlight:title_name = "设置号码归属地显示"
+	    northlight:desc_on = "号码归属地显示已经打开"
+	    northlight:desc_off = "号码归属地显示已经关闭"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/siv_show_address"
+	    
+	    >
+	</com.nl.mobilesafe.ui.SettingItemView>
+	
+	<com.nl.mobilesafe.ui.SettingClickView
+	    northlight:title_name = "归属地提示框风格"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/scv_changebg"
+	    
+	    >
+	</com.nl.mobilesafe.ui.SettingClickView>
+    <com.nl.mobilesafe.ui.SettingItemView
+	    northlight:title_name = "黑名单拦截设置"
+	    northlight:desc_on = "黑名单拦截已经开启"
+	    northlight:desc_off = "黑名单拦截已经关闭"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/siv_callsms_safe"
+	    
+	    >
+	</com.nl.mobilesafe.ui.SettingItemView>
+	
+	<com.nl.mobilesafe.ui.SettingItemView
+	    northlight:title_name = "程序锁设置"
+	    northlight:desc_on = "看门狗已经开启"
+	    northlight:desc_off = "看门狗已经关闭"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/siv_watchdog"
+	    
+	    >
+	</com.nl.mobilesafe.ui.SettingItemView>
+    
+    
+</LinearLayout>

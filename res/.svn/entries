@@ -1,0 +1,73 @@
+10
+
+dir
+1
+https://a-pc/svn/MobileSafe/res
+https://a-pc/svn/MobileSafe
+
+
+
+2015-03-05T08:16:24.071971Z
+1
+kaler
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+0799a473-66ca-d947-b167-585696316a90
+
+values-w820dp
+dir
+
+drawable
+dir
+
+drawable-xxhdpi
+dir
+
+anim
+dir
+
+raw
+dir
+
+drawable-xhdpi
+dir
+
+values
+dir
+
+xml
+dir
+
+drawable-hdpi
+dir
+
+menu
+dir
+
+values-v11
+dir
+
+drawable-ldpi
+dir
+
+values-v14
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+

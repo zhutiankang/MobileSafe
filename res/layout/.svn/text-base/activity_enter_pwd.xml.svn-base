@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="我是看门狗，哈哈哈"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        >
+        <ImageView 
+            android:layout_marginLeft="10dip"
+	    android:id="@+id/iv_icon"
+        android:layout_width="55dip"
+        android:layout_height="55dip"
+        android:src="@drawable/ic_launcher"
+	    />
+        <TextView
+        android:layout_marginLeft="10dip"
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="程序名称："
+        android:textColor="#77000000"
+        android:textSize="20sp" />
+    </LinearLayout>
+  
+	
+    <EditText
+        android:inputType="textPassword"
+        android:id="@+id/et_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入密码" >
+    </EditText>
+
+    <Button
+        android:onClick="click"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="确定" />
+
+</LinearLayout>

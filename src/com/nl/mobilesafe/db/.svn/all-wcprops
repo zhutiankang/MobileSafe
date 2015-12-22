@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/MobileSafe/!svn/ver/3/src/com/nl/mobilesafe/db
+END
+AppLockDBOpenHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MobileSafe/!svn/ver/9/src/com/nl/mobilesafe/db/AppLockDBOpenHelper.java
+END
+BlackNumberDBOpenHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MobileSafe/!svn/ver/7/src/com/nl/mobilesafe/db/BlackNumberDBOpenHelper.java
+END

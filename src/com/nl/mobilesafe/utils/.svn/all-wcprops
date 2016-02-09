@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MobileSafe/!svn/ver/3/src/com/nl/mobilesafe/utils
+END
+SystemInfoUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MobileSafe/!svn/ver/9/src/com/nl/mobilesafe/utils/SystemInfoUtils.java
+END
+SmsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MobileSafe/!svn/ver/9/src/com/nl/mobilesafe/utils/SmsUtils.java
+END
+PointDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MobileSafe/!svn/ver/3/src/com/nl/mobilesafe/utils/PointDouble.java
+END
+ServiceStatusUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MobileSafe/!svn/ver/9/src/com/nl/mobilesafe/utils/ServiceStatusUtils.java
+END
+MD5Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MobileSafe/!svn/ver/3/src/com/nl/mobilesafe/utils/MD5Utils.java
+END
+StreamTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MobileSafe/!svn/ver/3/src/com/nl/mobilesafe/utils/StreamTools.java
+END
+DensityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MobileSafe/!svn/ver/8/src/com/nl/mobilesafe/utils/DensityUtil.java
+END
+ModifyOffset.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MobileSafe/!svn/ver/3/src/com/nl/mobilesafe/utils/ModifyOffset.java
+END

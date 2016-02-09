@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileSafe/!svn/ver/3/src/com/nl/mobilesafe/receiver
+END
+BootCompleteReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MobileSafe/!svn/ver/3/src/com/nl/mobilesafe/receiver/BootCompleteReceiver.java
+END
+SmsReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MobileSafe/!svn/ver/9/src/com/nl/mobilesafe/receiver/SmsReceiver.java
+END
+KillAllReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MobileSafe/!svn/ver/9/src/com/nl/mobilesafe/receiver/KillAllReceiver.java
+END
+MyWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MobileSafe/!svn/ver/9/src/com/nl/mobilesafe/receiver/MyWidget.java
+END
+MyAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MobileSafe/!svn/ver/3/src/com/nl/mobilesafe/receiver/MyAdmin.java
+END
